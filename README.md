@@ -133,8 +133,8 @@ The insights can support better-informed content experiments and resource alloca
 
 ## 📸 Dashboard Preview
 
-https://github.com/souandarya8/social-media-engagement-analysis/blob/main/dashboard.png
-
+![Social Media Engagement Analysis Dashboard]([dashboard.jpg](https://github.com/souandarya8/social-media-engagement-analysis/blob/main/dashboard.png
+))
 
 
 ## ⚙️ Project Workflow
