@@ -133,9 +133,9 @@ The insights can support better-informed content experiments and resource alloca
 
 ## 📸 Dashboard Preview
 
-![Social Media Engagement Analysis Power BI Dashboard](screenshots/dashboard.png)
+https://github.com/souandarya8/social-media-engagement-analysis/blob/main/dashboard.png
 
-*Power BI dashboard showing headline KPIs, platform engagement, content-type comparisons, viral post distribution, hourly engagement trends, and interactive filters.*
+
 
 ## ⚙️ Project Workflow
 
